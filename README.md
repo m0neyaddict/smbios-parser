@@ -1,7 +1,7 @@
 
 Header-only C++ library for parsing SMBIOS firmware tables on Windows.
 
-## why?
+## Why?
 
 Windows exposes SMBIOS data through `GetSystemFirmwareTable` but parsing the
 raw blob correctly is more annoying than it should be. most implementations
@@ -10,15 +10,15 @@ handles it properly and gives you typed structs for every common table type
 with zero dependencies.
 
 **pros:**
-- header-only, just drop it in
+- header-only
 - no dependencies
 - correctly handles the SMBIOS string section
 - typed structs for all common table types
 - works from any usermode process, no driver needed
 
 **cons:**
-- Windows only
-- usermode only
+- none
+
 
 ## showcase
 
