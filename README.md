@@ -62,6 +62,4 @@ smbios::walk_structures(buffer, [](const smbios::header* hdr)
 | 17   | memory device               |
 | 19   | memory array mapped address |
 
-## license
 
-MIT
