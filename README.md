@@ -1,7 +1,7 @@
 
 Header-only C++ library for parsing SMBIOS firmware tables on Windows.
 
-## Why?
+## Context
 
 Windows exposes SMBIOS data through `GetSystemFirmwareTable` but parsing the
 raw blob correctly is more annoying than it should be. most implementations
