@@ -17,7 +17,7 @@ with zero dependencies.
 - works from any usermode process, no driver needed
 
 **cons:**
-- none
+- windows only
 
 
 ## showcase
