@@ -7,6 +7,7 @@
 /*
    smbios-parser
    repository: https://github.com/m0neyaddict/smbios-parser
+   mini-blog : https://m0neyaddict.github.io/
 */
 
 namespace smbios
