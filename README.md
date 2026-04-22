@@ -19,6 +19,8 @@ with zero dependencies.
 **cons:**
 - windows only
 
+## blog
+small documentation of writing this is available on m0neyaddict.github.io
 
 ## showcase
 
