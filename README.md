@@ -20,7 +20,7 @@ with zero dependencies.
 - windows only
 
 ## blog
-small documentation of writing this is available on m0neyaddict.github.io
+small documentation of writing this is available on m0neyaddict.github.io(https://m0neyaddict.github.io)
 
 ## showcase
 
